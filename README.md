@@ -1,4 +1,10 @@
-# Handwritten-Digit-Classification-using-Majority-Voting-Classifier
+# Handwritten-Digit-Classification-using-multiple-ML-algorithms
+The algorithms which have been used for comparison of accuracies are as folows: -
+1.Softmax Regression
+2.Deep Neural Network
+3.Support Vector Machine
+4.Random Forest
+5.Ensemble Classifier(Combination of all four classifiers mentioned above and peredicting based on majority of values predicted by other algorithms and comparing its accuracy with other pre-established algorithms and reporting their differences.
 
 ## Introduction
 Human Visual System is one of the wonders of the Artificial Intelligence world, as it provides the precision and perception capabilities that even a computer cannot replicate. For example, consider the following sequence of handwritten digits:
